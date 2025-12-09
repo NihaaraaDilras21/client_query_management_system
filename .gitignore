@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.python-version
+
+# Virtual environments
+venv/
+venv2/
+ENV/
+env/
+.Python
+
+# VS Code
+.vscode/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Streamlit
+.streamlit/
+
+# MySQL / dataset / large files
+*.sql
+*.csv
+
+# Byte-compiled / caches
+pip-log.txt
+pip-delete-this-directory.txt
+
+# PyCharm
+.idea/
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
