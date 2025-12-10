@@ -1,3 +1,25 @@
+# Client Query Management System
+
+A professional **Streamlit + MySQL** based application designed to help businesses **collect, track, manage, resolve, and analyze** client support queries in real time.
+
+This system functions as a lightweight ticket-management platform, enabling:
+
+- 🧑‍💼 **Client management**
+- 🛠️ **Service/category management**
+- 📝 **Query submission & tracking**
+- ✔️ **Support workflows** (resolve / delete queries)
+- 📊 **Interactive analytics dashboards** with KPIs & charts
+
+This project demonstrates skills in:
+
+- Python development  
+- SQL + relational database design  
+- Streamlit UI development  
+- Data cleaning & processing  
+- Analytical dashboard creation  
+- End-to-end application design  
+
+
 # **Client Query Management System**
 
 A **Streamlit + MySQL** based application that allows businesses to **collect, track, manage, resolve, and analyze client support queries** in real time.
